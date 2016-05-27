@@ -11,7 +11,7 @@ title:
 
 ## en-US
 
-Show text block until data had been read.
+Show gray blocks for text until the data has been fetched.
 
 ````jsx
 import { Card } from 'antd';

@@ -11,7 +11,7 @@ title:
 
 ## en-US
 
-You can adjust the default margins, set the width.
+You can adjust the default margins like setting the width.
 
 ````jsx
 import { Card } from 'antd';
